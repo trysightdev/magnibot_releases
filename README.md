@@ -1,0 +1,1 @@
+# magnibot_releases
